@@ -9,7 +9,6 @@ venv/
 .env.*               # any dotenv‐style config
 
 # Streamlit / temp files
-.streamlit/
 *.lock
 tmp/
 *.mp3                # temp audio files
